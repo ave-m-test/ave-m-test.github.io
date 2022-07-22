@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["NftMarketIndex"],{"523a":function(e,n,t){"use strict";t.r(n);var r=t("7a23");function o(e,n,t,o,a,c){var d=Object(r["resolveComponent"])("router-view");return Object(r["openBlock"])(),Object(r["createBlock"])(d)}var a={name:"NftMarketIndex"},c=t("6b0d"),d=t.n(c);const p=d()(a,[["render",o]]);n["default"]=p}}]);
